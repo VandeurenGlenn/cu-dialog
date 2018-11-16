@@ -1,0 +1,29 @@
+{
+  "name": "cu-dialog",
+  "version": "0.1.0",
+  "description": "",
+  "main": "cu-dialog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandeurenglenn/cu-dialog.git"
+  },
+  "keywords": [
+    "notificatio",
+    "custom",
+    "element",
+    "html"
+  ],
+  "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vandeurenglenn/cu-dialog/issues"
+  },
+  "homepage": "https://github.com/vandeurenglenn/cu-dialog#readme",
+  "dependencies": {
+    "backed": "^0.13.0",
+    "custom-renderer-mixin": "^1.1.2"
+  }
+}
