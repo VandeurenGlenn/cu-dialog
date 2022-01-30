@@ -24,6 +24,6 @@
   "homepage": "https://github.com/vandeurenglenn/cu-dialog#readme",
   "dependencies": {
     "backed": "^0.13.0",
-    "custom-renderer-mixin": "^1.1.2"
+    "custom-renderer-mixin": "^1.1.4"
   }
 }
